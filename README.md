@@ -23,14 +23,16 @@ With this code you can:
 
 ### Prerequisites
 
+
 Use Python 3.10.12 for running the project.
 
-```
-Give examples
-```
+
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Python 3.10.12](https://www.python.org/) - Database
+
+
 
 ## ✍️ Authors <a name = "authors"></a>
 
